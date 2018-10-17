@@ -2,5 +2,5 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
   if(int % 15 == 0)
-    return "fizzbuzz"
+    return "FizzBuzz"
 end
